@@ -8,13 +8,15 @@
 
  -Source: [FreeCodeCamp Curriculum: Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page).
 
-### Requirements
+## Requirements
 
  -Create a tribute page of someone you are interested.
+
  -The img element should responsively resize.
+
  -Add id to all major elements.
 
-### What I Learned
+## What I Learned
 
  -Refreshed my mind by using CSS.
 
