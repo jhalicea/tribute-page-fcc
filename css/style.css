@@ -1,0 +1,67 @@
+html {
+    font-family: "Cormorant Garamond",serif;
+    line-height: 1.5;
+    color: #222;
+    font-size: 10px;
+    text-align: center;
+}
+
+::selection {
+    background: #ffe995;
+  }
+
+  a {
+      text-decoration: none;
+      color: #222;
+      box-shadow: inset 0 -0.1em #ffd22a;
+      transition: all .4s cubic-bezier(.15,.53,.35,1)
+  }
+
+  a:hover {
+      box-shadow: inset 0 -0.4em #ffd22a;
+  }
+
+body {
+    background-color: #fefbf3;
+    /*margin: 40px 20px; */
+    font-size: 2.5rem;
+}
+
+#main {
+    width: auto;
+    margin: 40px 8px;
+    padding: 10px;
+    background-color: #F5F5EF;
+    border-radius: 5px;
+}
+
+#title {
+    text-align: center;
+}
+
+#img-div {
+    padding: 10px 50px;
+    margin: 0;
+    background: #fff;
+    display: block;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#tribute-info ul {
+    text-align: left;
+}
+
+ul li {
+    padding: 15px;
+}
+
+footer {
+    background-color: #fff;
+    font-size: 18px;
+}
