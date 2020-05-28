@@ -14,7 +14,7 @@
 
  -The img element should responsively resize.
 
- -Add id to all major elements.
+ -Add an #id to all major HTML elements.
 
 ## What I Learned
 
